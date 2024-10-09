@@ -1,0 +1,16 @@
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Voice chat.exe
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Voice chat.deps.json
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Voice chat.runtimeconfig.json
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Voice chat.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Voice chat.pdb
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice_chat.Form1.resources
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.csproj.GenerateResource.cache
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.GeneratedMSBuildEditorConfig.editorconfig
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.AssemblyInfoInputs.cache
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.AssemblyInfo.cs
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.csproj.CoreCompileInputs.cache
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.dll
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\refint\Voice chat.dll
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.pdb
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.genruntimeconfig.cache
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\ref\Voice chat.dll
