@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Voice chat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+902104cd1f84c2b8f35a075bf214999a8c10e810")]
 [assembly: System.Reflection.AssemblyProductAttribute("Voice chat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Voice chat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

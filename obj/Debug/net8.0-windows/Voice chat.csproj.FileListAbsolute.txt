@@ -14,3 +14,32 @@ E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\refint\Voice chat
 E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.pdb
 E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.genruntimeconfig.cache
 E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\ref\Voice chat.dll
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.sourcelink.json
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Voice chat.dll.config
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.csproj.AssemblyReference.cache
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\firebase-key.json
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\FirebaseAdmin.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.Api.CommonProtos.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.Api.Gax.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.Api.Gax.Grpc.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.Api.Gax.Rest.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.Apis.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.Cloud.Firestore.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.Cloud.Firestore.V1.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.Cloud.Location.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.LongRunning.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Grpc.Auth.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\System.Linq.Async.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\System.Management.dll
+E:\voice caht w\Voice chat\Voice chat\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\voice caht w\Voice chat\Voice chat\obj\Debug\net8.0-windows\Voice chat.csproj.Up2Date
